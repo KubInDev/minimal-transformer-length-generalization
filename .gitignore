@@ -1,2 +1,5 @@
 .venv/
 *.pkl
+*.png
+*.img
+.idea/
